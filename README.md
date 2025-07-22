@@ -1,6 +1,6 @@
 # Hi there, I'm ILYA GHAFFARY! 👋
 
-[![Welcome Coding GIF](https://github.com/ilyaghaffary/ilyaghaffary/raw/main/assets/welcome_coding.gif)](https://github.com/ilyaghaffary/ilyaghaffary/raw/main/assets/welcome_coding.gif)
+[![Hacker Coding GIF](https://github.com/ilyaghaffary/ilyaghaffary/raw/main/assets/welcome_coding.gif)](https://github.com/ilyaghaffary/ilyaghaffary/raw/main/assets/welcome_coding.gif)
 
 ### A **CYBERSECURITY ENGINEER**, **ETHICAL HACKER**, **PENETRATION TESTER**, **SENIOR FULL STACK MOBILE AND WEB DEVELOPER**, specialized in **ARTIFICIAL INTELLIGENCE**, and a **GRAPHIC DESIGNER**. I'm passionate about continuous learning, solving complex problems, and pushing the boundaries of technology.
 
@@ -8,18 +8,22 @@
 
 ### 🚀 **What I'm currently working on:**
 
-[![MM GIF](https://github.com/ilyaghaffary/ilyaghaffary/raw/main/assets/mm.gif)](https://github.com/ilyaghaffary/ilyaghaffary/raw/main/assets/mm.gif)
+[![Developer Building GIF](https://github.com/ilyaghaffary/ilyaghaffary/raw/main/assets/working_developer.gif)](https://github.com/ilyaghaffary/ilyaghaffary/raw/main/assets/working_developer.gif)
 
 * Currently focusing on **developing cutting-edge cybersecurity solutions** and enhancing system security through **advanced penetration testing methodologies**.
 * Actively **researching and implementing AI algorithms** for anomaly detection and automated threat response in complex systems.
 
 ---
 
+[![MM GIF](https://github.com/ilyaghaffary/ilyaghaffary/raw/main/assets/mm.gif)](https://github.com/ilyaghaffary/ilyaghaffary/raw/main/assets/mm.gif)
+
 ### Search me on Google & Chatgpt & Gemini & Copilot :👁 ilyaghaffary
 
 ---
 
 ### 🌱 **My Skills:**
+
+[![Tech Network GIF](https://github.com/ilyaghaffary/ilyaghaffary/raw/main/assets/tech_skills.gif)](https://github.com/ilyaghaffary/ilyaghaffary/raw/main/assets/tech_skills.gif)
 
 [![M GIF](https://github.com/ilyaghaffary/ilyaghaffary/raw/main/assets/m.gif)](https://github.com/ilyaghaffary/ilyaghaffary/raw/main/assets/m.gif)
 
