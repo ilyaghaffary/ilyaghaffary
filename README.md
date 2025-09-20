@@ -162,4 +162,13 @@ You can reach out or follow my activities through the links below:
 
 ---
 
+## Developer Support Capability
+
+- **Euro Donation:** [https://pay.ypaylink.com/personal-link/886/3ca205b8ef2ee1a6c606e071d4e9f95d11c7a6b2](https://pay.ypaylink.com/personal-link/886/3ca205b8ef2ee1a6c606e071d4e9f95d11c7a6b2) 💳
+- **Bitcoin Address:** `1FbJ2rRNVqqhL3vXPueHXvu4xJTrJkT6J3` ₿
+- **Rial Donation (Donito):** [https://donito.me/ilya_ghaffary](https://donito.me/ilya_ghaffary) 
+- **Rial Donation (ZarinPal):** [https://zarinp.al/ilya_ghaffary](https://zarinp.al/ilya_ghaffary) 
+
+
+  ---
 ⭐️ From [ilyaghaffary]
